@@ -9,7 +9,7 @@ export const Cards = ({item}) => {
     //div.cards>div.image_box+div.details>p*3+button
     <div className='cards'>
       <div className='container'>
-        <img src={prodImg} alt='Go X Art' style={{width:'100%'}} />
+        <img src={prodImg} alt='Go X Art' style={{height:'100%', width:'100%'}} />
       </div>
     </div>
   )

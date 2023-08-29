@@ -33,48 +33,48 @@ export const PRODUCTS = [
         id : 6,
         prodName : "LITCHI",
         prodPrice : 200,
-        prodImg : "https://i.postimg.cc/rwxdQ6Lr/litchi.jpg"
+        prodImg : "https://i.postimg.cc/21T8tytR/Screenshot-2023-08-29-152854.png"
     },
     {
         id : 7,
         prodName : "AVOCADO",
         prodPrice : 240,
-        prodImg : "https://i.postimg.cc/s2zMLnV0/avocado.jpg"
+        prodImg : "https://i.postimg.cc/ZCxT904B/Screenshot-2023-08-29-153229.png"
     },
     {
         id : 8,
         prodName : "FIG",
         prodPrice : 180,
-        prodImg : "https://i.postimg.cc/L6rYt9GS/fig.jpg"
+        prodImg : "https://i.postimg.cc/94MFHV34/Screenshot-2023-08-29-153254.png"
     },
     {
         id : 9,
         prodName : "STAR FRUIT",
         prodPrice : 110,
-        prodImg : "https://i.postimg.cc/ydTDm0c3/starfruit.jpg"
+        prodImg : "https://i.postimg.cc/p5N2jFm8/Screenshot-2023-08-29-153307.png"
     },
     {
         id : 10,
         prodName : "CRANBERRY",
         prodPrice : 140,
-        prodImg : "https://i.postimg.cc/BvQkZ0NW/cranberry.jpg"
+        prodImg : "https://i.postimg.cc/w7pqTD8Y/Screenshot-2023-08-29-153322.png"
     },
     {
         id : 11,
         prodName : "GUAVA",
         prodPrice : 50,
-        prodImg : "https://i.postimg.cc/R0Q21TVB/guava.jpg"
+        prodImg : "https://i.postimg.cc/64dBfpZP/Screenshot-2023-08-29-153336.png"
     },
     {
         id : 12,
         prodName : "GREEN APPLE",
         prodPrice : 80,
-        prodImg : "https://i.postimg.cc/nrNGsM5W/greenapple.jpg"
+        prodImg : "https://i.postimg.cc/QV5N30zq/Screenshot-2023-08-29-153359.png"
     },
     {
         id : 13,
         prodName : "LEMON",
         prodPrice : 40,
-        prodImg : "https://i.postimg.cc/VNc3bhwg/LEMON.jpg"
+        prodImg : "https://i.postimg.cc/v1N8QjM0/Screenshot-2023-08-29-153416.png"
     },
 ];
