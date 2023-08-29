@@ -11,6 +11,10 @@
     font-size: 44px;
 }
 
+.container:hover{
+    opacity: 25%;
+}
+
 .container{
     display: inline-block;
     width: 100%;
