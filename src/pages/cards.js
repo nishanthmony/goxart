@@ -11,6 +11,9 @@ export const Cards = ({item}) => {
       <div className='container'>
         <img src={prodImg} alt='Go X Art' style={{width:'100%'}}/>
       </div>
+      <div className='prodDescription'>
+        <button className='saveButton'>Save</button>
+      </div>
     </div>
   )
 }
