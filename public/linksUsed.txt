@@ -1,2 +1,15 @@
 for favicon
 https://www.w3schools.com/howto/howto_html_favicon.asp
+https://medium.com/@leahcardoz/how-to-change-the-favicon-title-of-your-react-app-in-5-minutes-9163e023b8d2
+
+
+for cart 
+https://www.youtube.com/watch?v=S5q4sPe_K_Q&ab_channel=CodeForU
+
+
+for css dropdowns
+https://www.youtube.com/watch?v=S-VeYcOCFZw&ab_channel=WebDevSimplified
+
+
+for responsiveness
+https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp
