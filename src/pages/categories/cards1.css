@@ -1,0 +1,39 @@
+.cards{
+    height: fit-content;
+    width: fit-content;
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    font-size: 44px;
+}
+
+.container{
+    display: inline-block;
+    width: 100%;
+    flex: 50%;
+    padding: 0 4px;
+
+    margin-bottom: 15px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 6px;
+    color: red;
+    font-size: 26px;
+    background-color: black;
+}
+button:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container img{
+    display:block;
+    width: 100%;
+    margin-top: 8px;
+}

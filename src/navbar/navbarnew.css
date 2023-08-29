@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #262626;
+    min-height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+
+.appTitle{
+    font-size: 2rem;
+}
+
+.links{
+    transition: 0.7s ease;
+}
+
+.links:hover{
+    color: dodgerblue;
+}
+
+.toggle-button{
+    display: none;
+    cursor: pointer;
+}
+
+.dropDown{
+    display: none;
+}
+
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+}
+
+@media(max-width:400px){
+    .toggle-button{
+        display: block;
+    }
+
+    .toggle-button.active .bar:nth-child(2){
+        opacity: 0;
+    }
+    .toggle-button.active .bar:nth-child(1){
+        transform: translate(8px) rotate(45deg);
+    }
+    .toggle-button.active .bar:nth-child(3){
+        transform: translate(-8px) rotate(-45deg);
+    }
+}

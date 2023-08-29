@@ -1,0 +1,55 @@
+.homePage{
+    margin-top: 80px;
+    font-size: 100px;
+    column-count: 3;
+}
+
+.cartDetails{
+    margin-top: 80px;
+    height: 100vh;
+    background-color: grey;
+    color: white;
+    font-size: 25px;
+}
+
+.owned{
+    margin-top: 260px;
+}
+
+.contactDetails{
+    margin-top: 80px;
+}
+.ownerNumber{
+    color: red;
+}
+
+.profileLinks{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+div{
+    height: auto;
+    width: auto;
+}
+
+.gokul{
+    border-radius: 15px;
+}
+
+@media(min-width:350px){
+    .homePage{
+        column-count: 1;
+    }
+}
+@media(min-width:650px){
+    .homePage{
+        column-count: 2;
+    }
+}
+
+@media(min-width:1050px){
+    .homePage{
+        column-count: 3;
+    }
+}
