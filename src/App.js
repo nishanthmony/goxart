@@ -16,7 +16,7 @@ function App() {
           <Route path = "/" element = {<Homepage />} />
           <Route path='/owned' element = {<Owned />} />
           <Route path='/categories' element = {<Categories />} />
-          <Route path = "/cart" element = {<Cart />} />
+          <Route path = "/saved" element = {<Cart />} />
           <Route path='/contactus' element = {<Contactus />}/>
         </Routes>
       </Router>

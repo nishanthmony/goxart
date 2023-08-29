@@ -11,6 +11,10 @@
     font-size: 44px;
 }
 
+*{
+    box-sizing: border-box;
+}
+
 .container:hover{
     opacity: 25%;
 }
